@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Okeffe Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Okeffe Regular'), url('Okeffe-8MK10.woff') format('woff');
+    }
+
+ h1 {
+    font-family: 'Okeffe Regular';
+    font-weight: 200;
+    color: #0ccac4;
+ }   
